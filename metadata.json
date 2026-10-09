@@ -1,0 +1,6 @@
+{
+  "name": "EcoSort 360 - Segregación NTP 900.058:2019",
+  "description": "Plataforma educativa corporativa interactiva para la correcta segregación de residuos sólidos según la norma técnica peruana NTP 900.058:2019.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
